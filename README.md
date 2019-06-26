@@ -7,9 +7,13 @@
 <h3 align="center"> Complete Classroom Management Solution <h3>
  <h4 align="center"> Assignment,Todo,Notes,Notification & more.</h4>
 
+  <h4 align="center">http://lineupclasses.herokuapp.com/</h4>
+
+
+
 <div align="center">
-  
- [![React](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=popout-square)](http://lineupclasses.herokuapp.com/) 
+ 
+  [![React](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=popout-square)](http://lineupclasses.herokuapp.com/) 
   [![made-with-react](https://img.shields.io/badge/React-2.1.5-brightgreen.svg?style=popout-square)
   ](https://github.com/facebook/create-react-app)
    [![](https://img.shields.io/badge/-Firebase-orange.svg?style=popout-square)](https://firebase.google.com)
@@ -18,7 +22,7 @@
   ![](https://img.shields.io/github/license/atharvau/linepClasses.svg?style=popout-square)
   
  </div>
-
+ 
 ##  LineUp Classes : About
 - It is a complete solution for your class management needs 
 - Easily manage Assignment, Notes & send Notifications.
